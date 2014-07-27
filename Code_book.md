@@ -1,5 +1,21 @@
 
-# The final table contains average values of following 86 mean and std columns by subject and activity labels
+# Description of variables
+The final table contains average values of following 86 mean and std columns by 30 subject and 6 activity labels
+
+30 subjects : 1 - 30 
+
+6 activity labels : 
+
+1              WALKING
+2     WALKING_UPSTAIRS
+3   WALKING_DOWNSTAIRS
+4              SITTING
+5             STANDING
+6               LAYING
+
+
+The 86 mean and std columns : 
+
 [1] tBodyAcc-mean()-X                    tBodyAcc-mean()-Y                   
  [3] tBodyAcc-mean()-Z                    tBodyAcc-std()-X                    
  [5] tBodyAcc-std()-Y                     tBodyAcc-std()-Z                    
