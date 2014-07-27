@@ -5,7 +5,7 @@ Getting and Cleaning Data course project
 
 how to replicate the final dataset:
 
-download the data in local and unzip the files and then use the run_analysis.r to format and cleanse the data (more details in the r file)
+download the data in local and unzip the files and then use the run_analysis.r to format and cleanse the data 
 
 Deliverables :
 
